@@ -1,0 +1,3 @@
+1. cor(data) gives a correlation matrix
+	=> Angle_of_Attack and Displacement show 75% correlation
+	=> Usually, correlation above 80% (subjective) is considered higher. Therefore, we 	   can forego this combination and won't remove any variable.
